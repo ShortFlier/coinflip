@@ -1,0 +1,2 @@
+# coinflip
+The game coinflip
