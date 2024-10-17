@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/img"/>
+    <qresource prefix="/">
+        <file>../QtLearn-master/CoinFlip/res/BackButton.png</file>
+        <file>../QtLearn-master/CoinFlip/res/BackButtonSelected.png</file>
+        <file>../QtLearn-master/CoinFlip/res/BackButtonSound.wav</file>
+        <file>../QtLearn-master/CoinFlip/res/BoardNode.png</file>
+        <file>../QtLearn-master/CoinFlip/res/Coin0001.png</file>
+        <file>../QtLearn-master/CoinFlip/res/Coin0002.png</file>
+        <file>../QtLearn-master/CoinFlip/res/Coin0003.png</file>
+        <file>../QtLearn-master/CoinFlip/res/Coin0004.png</file>
+        <file>../QtLearn-master/CoinFlip/res/Coin0005.png</file>
+        <file>../QtLearn-master/CoinFlip/res/Coin0006.png</file>
+        <file>../QtLearn-master/CoinFlip/res/Coin0007.png</file>
+        <file>../QtLearn-master/CoinFlip/res/Coin0008.png</file>
+        <file>../QtLearn-master/CoinFlip/res/ConFlipSound.wav</file>
+        <file>../QtLearn-master/CoinFlip/res/LevelCompletedDialogBg.png</file>
+        <file>../QtLearn-master/CoinFlip/res/LevelIcon.png</file>
+        <file>../QtLearn-master/CoinFlip/res/LevelWinSound.wav</file>
+        <file>../QtLearn-master/CoinFlip/res/MenuSceneBg.png</file>
+        <file>../QtLearn-master/CoinFlip/res/MenuSceneStartButton.png</file>
+        <file>../QtLearn-master/CoinFlip/res/myDouDZ.wav</file>
+        <file>../QtLearn-master/CoinFlip/res/OtherSceneBg.png</file>
+        <file>../QtLearn-master/CoinFlip/res/PlayLevelSceneBg.png</file>
+        <file>../QtLearn-master/CoinFlip/res/TapButtonSound.wav</file>
+        <file>../QtLearn-master/CoinFlip/res/Title.png</file>
+    </qresource>
+</RCC>
